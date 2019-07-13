@@ -1,0 +1,22 @@
+.todoDone {
+	text-decoration: line-through;
+	font-style: italic;
+	color: gray;
+}
+
+.form-group {
+    display: flex;
+    align-items: center;
+}
+
+.form-check-input {
+    margin-top: 0;
+}
+
+button.btn {
+    margin-left: 15px;
+}
+
+label {
+    user-select: none;
+}
